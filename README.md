@@ -89,7 +89,8 @@ dve -full64 &
 A DVE environment will open.
 
 ## DVE Waveform Verification
-<img width="1907" height="983" alt="Screenshot 2026-09-30 091738" src="https://github.com/user-attachments/assets/f66589d4-9ee0-4ff9-9816-760760459eb0" />
+<img width="1036" height="686" alt="image" src="https://github.com/user-attachments/assets/e98dfa2c-0c64-48e2-9748-0eca7ead70d4" />
+
 
 In DVE:
 1.	Open the testbench hierarchy.
